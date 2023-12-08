@@ -32,4 +32,4 @@ Developed a prototype Question-Answering chatbot for DataSpeak to enhance custom
 - Special thanks to C-level staff at DataSpeak and my fellow students for their support and collaboration.
 
 ## Presentation Slides
-https://github.com/jnorfolk/DataSpeak-QA/Dataspeak-QA-Project.pptx
+[https://github.com/jnorfolk/DataSpeak-QA/Dataspeak-QA-Project.pptx](https://github.com/jnorfolk/DataSpeak-QA/blob/main/Dataspeak%20QA%20Project.pptx)
