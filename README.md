@@ -21,6 +21,9 @@ Developed a prototype Question-Answering chatbot for DataSpeak to enhance custom
 - **Efficient Data Retrieval:** Utilizes Pinecone for fast and accurate retrieval of matching question-answer pairs.
 - **User-Friendly Interface:** Streamlit-based web application for easy interaction with the chatbot.
 
+## Output Example
+![image](https://github.com/jnorfolk/DataSpeak-QA/assets/117448822/23cdef94-6679-4ba8-aa31-274bc9693c43)
+
 ## Installation and Deployment
 - Open `app_launcher.ipynb` in the Google Collab interface.
 - Upload `app.py` as a temporary file in the workspace.
